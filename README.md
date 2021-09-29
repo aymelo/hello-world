@@ -1,2 +1,8 @@
 # hello-world
-just other repository
+Hello,
+My name is king Yapo. I'm a Data Expert.
+Think you for your help !
+Status : Expert Data / IA
+
+
+
